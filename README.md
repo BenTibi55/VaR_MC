@@ -1,1 +1,2 @@
 # VaR_MC
+This project calculates the Value at Risk (VaR) of a financial portfolio using the Monte Carlo simulation method, which models potential portfolio returns based on historical data, accounting for asset correlations. It estimates the maximum expected loss at specified confidence levels (e.g., 95% and 99%) and calculates the Expected Shortfall (average loss beyond the VaR threshold). The project includes visualizations of return distributions and highlights risk thresholds, providing a robust tool for portfolio risk assessment and management.
